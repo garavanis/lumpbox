@@ -117,8 +117,7 @@ uv run pytest
 ## Acknowledgements
 
 lumpbox started from [dynasim](https://github.com/MarcusHA94/dynasim) by
-Marcus Haywood-Alexander, and owes ideas to
-[Toybox](https://github.com/MDCHAMP/Toybox) by Max Champneys.
+Marcus Haywood-Alexander.
 
 ## License
 

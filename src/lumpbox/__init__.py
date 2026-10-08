@@ -19,7 +19,6 @@ except _metadata.PackageNotFoundError:  # a source checkout that was never insta
 from lumpbox import (  # noqa: E402
     batchsolve,
     exc,
-    latent_effects,
     mkc_systems,
     nonlin,
     obs_models,
@@ -77,7 +76,6 @@ __all__ = [
     # modules
     "batchsolve",
     "exc",
-    "latent_effects",
     "mkc_systems",
     "nonlin",
     "obs_models",

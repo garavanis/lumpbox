@@ -106,7 +106,6 @@ at the top level (`import lumpbox as lb`); the modules hold everything:
 | `solvers` | `RK4`, `RK45` (Equinox modules) |
 | `batchsolve` | `stack_systems`, `vmapped_acc`, `get_psd_data`: populations |
 | `obs_models` | sensor models: identity, gain and offset, Gaussian noise, and their composition |
-| `latent_effects` | sampling of uncertain material properties |
 
 ## Tests
 

@@ -4,7 +4,8 @@ Lumped-mass (mass-spring-damper) system simulation in Python, built on JAX:
 chains of masses, linear or nonlinear, driven by shakers and observed through
 sensors, simulated one at a time or as a whole population at once.
 
-> In development: the interface may still change.
+> In development: the systems are mostly chains of masses for now; more
+> lumped-mass systems will follow, and the interface may still change.
 
 The systems follow
 
@@ -38,8 +39,6 @@ Built on [JAX](https://github.com/jax-ml/jax),
 switches JAX to 64-bit precision.
 
 ## Install
-
-The repository is private; with access to it:
 
 ```bash
 uv add git+https://github.com/garavanis/lumpbox
